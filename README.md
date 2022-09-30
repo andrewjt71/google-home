@@ -5,6 +5,8 @@ Aim: To play around with Google Cloud Functions, [Google Dialogflow](https://dia
 ## Why
 A few weeks ago I won a Google home mini from one of the prize draws which users of Google Pay are entered into. This was a shock as I NEVER win this kind of thing. Anyway, I enjoyed using it for the usual tasks - casting youtube videos to my TV, playing songs from Spotify etc. Naturally I wanted to write some custom functionality because why not!?
 
+![google home](./img/refuse.jpg)
+
 ## How
 In the area I live, standard refuse is collected fortnightly, and recycling is collected weekly. Every week I draw a blank and forget which collection week it is. This is further complicated when bank holidays occur, and the schedule is altered to accommodate them. This gave me an idea - why not write a command for Google  to retrieve this information for me on demand. My local council makes this information available via its website, in the following format:
 
